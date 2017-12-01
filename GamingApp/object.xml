@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.5" PGFVersion="0.19" title="Flappy bee">
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">319</real>
+      <real id="height">480</real>
+    </size>
+    <text id="actorTags" />
+    <boolean id="id500662" name="Game Over">false</boolean>
+  </attributes>
+  <tags />
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>1</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id563448" />
+    <actor id="id360911" />
+    <actor id="id147522" />
+    <actor id="id271592" />
+    <actor id="id690666" />
+    <actor id="id795692" />
+    <actor id="id202921" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id981793" />
+  </scenes>
+</game>

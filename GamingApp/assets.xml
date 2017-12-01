@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds>
+    <sound name="buzz">
+      <file name="buzz.ogg" size="19605" />
+    </sound>
+    <sound name="smack">
+      <file name="smack.ogg" size="11394" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="obstacle 1">
+      <file name="obstacle 1.png" size="6075" />
+    </image>
+    <image name="obstacle">
+      <file name="obstacle.png" size="6732" />
+    </image>
+    <image name="background">
+      <file name="background.png" size="9461" />
+    </image>
+    <image name="sky">
+      <file name="sky.png" size="65054" />
+    </image>
+    <image name="ground">
+      <file name="ground.png" size="28043" />
+    </image>
+    <image name="2">
+      <file name="2.png" size="41158" />
+    </image>
+    <image name="Game over">
+      <file name="Game over.png" size="339271" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
